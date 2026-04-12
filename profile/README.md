@@ -4,8 +4,6 @@
 
 ### Members  
 
-<div align="center">
-
 <table>
   <tr>
     <td align="center">
@@ -39,13 +37,7 @@
       </a>
     </td>
   </tr>
-</table>
-
-</div>
-
----
-
-</div>
+</table> </div> 
 
 ## Project  
 ### **1. VAPS (Vehicle Anti-rollaway Protection System)**  
@@ -54,5 +46,5 @@
 > 경고 및 제동 제어를 통해 사고를 예방하는 프로젝트입니다.
 
 <a href="https://github.com/SW-6-3-3rd-Party/Vehicle_Anti-rollaway_Protection_System">
-  <img src="https://img.shields.io/badge/🔗%20Go%20to%20Repository-181717?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Repository-VAPS-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
