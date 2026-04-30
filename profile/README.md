@@ -53,8 +53,8 @@
 
 ### **2. ReV-CaRS (Remote Vehicle Call & Return System)**  
 > 원격 차량 호출·반납 제어 시스템으로,  
-> ReV-CaRS는 카셰어링 차량을 사용자 위치로 원격 호출하고, 이용 후 거점으로 회수하는 원격 주행 제어 시스템입니다.  
-> 본 프로젝트는 실제 차량 대신 RC카를 사용하여 PC 키보드 입력으로 주행, 조향, 제동, 등화 기능을 제어합니다.  
+> 카셰어링 차량을 사용자 위치로 원격 호출하고  
+> 이용 후 거점으로 회수하는 원격 주행 제어 시스템입니다.  
 
 <a href="https://github.com/SW-6-3-3rd-Party/Remote-Vehicle-Call-and-Return-System">
   <img src="https://img.shields.io/badge/Repository-ReV--CaRS-181717?style=for-the-badge&logo=github&logoColor=white" />
