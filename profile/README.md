@@ -56,5 +56,5 @@
 > 본 프로젝트는 실제 차량 대신 RC카를 사용하여 PC 키보드 입력으로 주행, 조향, 제동, 등화 기능을 제어합니다.  
 
 <a href="https://github.com/SW-6-3-3rd-Party/Remote-Vehicle-Call-and-Return-System">
-  <img src="https://img.shields.io/badge/Repository-VAPS-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Repository-ReV-CaRS-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
