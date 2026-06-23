@@ -59,3 +59,10 @@
 <a href="https://github.com/SW-6-3-3rd-Party/Remote-Vehicle-Call-and-Return-System">
   <img src="https://img.shields.io/badge/Repository-ReV--CaRS-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
+
+### **3. Self-Driving**  
+> 자율주행 프로젝트 
+
+<a href="https://github.com/SW-6-3-3rd-Party/Self-Driving">
+  <img src="https://img.shields.io/badge/Repository-Self--Driving-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
