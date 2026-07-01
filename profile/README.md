@@ -60,8 +60,10 @@
   <img src="https://img.shields.io/badge/Repository-ReV--CaRS-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
-### **3. Self-Driving**  
-> 자율주행 프로젝트 
+### **3. O-ADAS (OTA-based Advanced Driver Assistance System)**  
+> 카메라 기반 차선·보행자 인식과 초음파·ToF 센서 융합을 통해 
+> 차선 유지, 측면 안전 판단, 자동 긴급 제동, 조향·주행 제어를 수행하는
+> RC카 자율주행 시스템입니다.  
 
 <a href="https://github.com/SW-6-3-3rd-Party/Self-Driving">
   <img src="https://img.shields.io/badge/Repository-Self--Driving-181717?style=for-the-badge&logo=github&logoColor=white" />
